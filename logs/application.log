@@ -1,0 +1,235 @@
+2024-11-23 13:36:20 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 13:36:21 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 13:36:22 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 13:36:22 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 13:36:22 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 13:36:22 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 13:36:22 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 13:36:22 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 13:36:23 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 13:36:23 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 13:36:23 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 13:36:24 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 13:36:24 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 13:36:24 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 13:36:28 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 13:36:29 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 13:36:29 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 13:36:29 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 13:36:29 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 13:36:30 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 13:36:30 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 13:37:03 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 13:37:04 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 13:37:04 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 13:37:04 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 13:37:05 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 13:37:05 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 13:37:06 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 13:37:06 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 13:37:06 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 13:37:07 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 13:37:07 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 13:37:08 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 13:37:08 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 13:37:08 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 13:37:12 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 13:37:13 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 13:37:13 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 13:37:13 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 13:37:14 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 13:37:15 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 13:37:15 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 13:45:24 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 13:45:24 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 13:45:25 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 13:45:25 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 13:45:25 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 13:45:25 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 13:45:25 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 13:45:25 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 13:45:26 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 13:45:26 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 13:45:26 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 13:45:27 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 13:45:27 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 13:45:27 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 13:45:29 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 13:45:29 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 13:45:30 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 13:45:30 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 13:45:30 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 13:45:31 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 13:45:31 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 13:46:16 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 13:46:17 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 13:46:17 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 13:46:17 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 13:46:17 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 13:46:18 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 13:46:18 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 13:46:18 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 13:46:18 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 13:46:18 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 13:46:18 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 13:46:19 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 13:46:19 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 13:46:19 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 13:46:22 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 13:46:22 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 13:46:23 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 13:46:23 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 13:46:23 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 13:46:24 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 13:46:24 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 17:31:52 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 17:31:52 [main] ERROR testCases.TC_01_AccountRegistration - An error occurred during the test case execution: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-11-23 17:31:52 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 17:31:52 [main] ERROR testCases.TC_002_LoginTest - An error occurred during the test case execution: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-11-23 17:32:40 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 17:32:40 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 17:32:41 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 17:32:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 17:32:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 17:32:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 17:32:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 17:32:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 17:32:42 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 17:32:42 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 17:32:42 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 17:32:43 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 17:32:43 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 17:32:43 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 17:32:47 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 17:32:47 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 17:32:48 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 17:32:48 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 17:32:48 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 17:32:49 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 17:32:49 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 17:35:07 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 17:35:08 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 17:35:09 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 17:35:09 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 17:35:09 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 17:35:09 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 17:35:09 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 17:35:09 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 17:35:09 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 17:35:10 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 17:35:10 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 17:35:11 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 17:35:11 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 17:35:11 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 17:35:15 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 17:35:15 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 17:35:16 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 17:35:16 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 17:35:16 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 17:35:17 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 17:35:17 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 17:48:52 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 17:48:52 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 17:48:53 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 17:48:53 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 17:48:53 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 17:48:54 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 17:48:54 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 17:48:54 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 17:48:54 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 17:48:54 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 17:48:54 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 17:48:55 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 17:48:55 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 17:48:55 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 17:48:58 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 17:48:58 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 17:48:58 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 17:48:58 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 17:48:58 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 17:48:59 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 17:48:59 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 17:49:40 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 17:49:40 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 17:49:40 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 17:49:41 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 17:49:42 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 17:49:42 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 17:49:42 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 17:49:45 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 17:49:45 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 17:49:45 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 17:49:45 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 17:49:45 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 17:49:46 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 17:49:46 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 19:46:47 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 19:46:48 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 19:46:48 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 19:46:49 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 19:46:49 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 19:46:49 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 19:46:49 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 19:46:49 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 19:46:50 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 19:46:50 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 19:46:50 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 19:46:51 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 19:46:51 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 19:46:51 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 19:46:54 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 19:46:55 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 19:46:55 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 19:46:55 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 19:46:55 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 19:46:57 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 19:46:57 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 19:58:10 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 19:58:10 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 19:58:11 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 19:58:11 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 19:58:11 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 19:58:11 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 19:58:11 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 19:58:11 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 19:58:11 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 19:58:12 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 19:58:12 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 19:58:12 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 19:58:13 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 19:58:13 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 19:58:16 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 19:58:16 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 19:58:16 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 19:58:16 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 19:58:17 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 19:58:17 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 19:58:18 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.
+2024-11-23 20:52:24 [main] INFO  testCases.TC_01_AccountRegistration - ---------*******  TC_01_AccountRegistration *******------------- 
+2024-11-23 20:52:25 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on My Account.
+2024-11-23 20:52:25 [main] INFO  testCases.TC_01_AccountRegistration - Navigated to the registration page.
+2024-11-23 20:52:26 [main] INFO  testCases.TC_01_AccountRegistration - Entered first name.
+2024-11-23 20:52:26 [main] INFO  testCases.TC_01_AccountRegistration - Entered last name.
+2024-11-23 20:52:26 [main] INFO  testCases.TC_01_AccountRegistration - Entered email.
+2024-11-23 20:52:26 [main] INFO  testCases.TC_01_AccountRegistration - Entered telephone number.
+2024-11-23 20:52:26 [main] INFO  testCases.TC_01_AccountRegistration - Entered password.
+2024-11-23 20:52:26 [main] INFO  testCases.TC_01_AccountRegistration - Confirmed password.
+2024-11-23 20:52:27 [main] INFO  testCases.TC_01_AccountRegistration - Subscribed to newsletter.
+2024-11-23 20:52:27 [main] INFO  testCases.TC_01_AccountRegistration - Agreed to the terms and conditions.
+2024-11-23 20:52:28 [main] INFO  testCases.TC_01_AccountRegistration - Submitted the registration form.
+2024-11-23 20:52:28 [main] INFO  testCases.TC_01_AccountRegistration - Account creation confirmation validated.
+2024-11-23 20:52:28 [main] INFO  testCases.TC_01_AccountRegistration - Test case execution completed successfully.
+2024-11-23 20:52:31 [main] INFO  testCases.TC_002_LoginTest - ---------*******  TC_002_LoginTest *******------------- 
+2024-11-23 20:52:31 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account.
+2024-11-23 20:52:31 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login.
+2024-11-23 20:52:32 [main] INFO  testCases.TC_002_LoginTest - Entered email.
+2024-11-23 20:52:32 [main] INFO  testCases.TC_002_LoginTest - Entered password.
+2024-11-23 20:52:33 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button.
+2024-11-23 20:52:33 [main] INFO  testCases.TC_002_LoginTest - Login successful and My Account page exists.

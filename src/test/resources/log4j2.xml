@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <!-- Define reusable properties -->
+        <Property name="logPattern">%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Property>
+        <Property name="basePath">./logs/application.log</Property>
+        <Property name="logFilePattern">./logs/application-%d{yyyy-MM-dd}.log.gz</Property>
+    </Properties>
+
+    <!-- Define appenders -->
+    <Appenders>
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${logPattern}" />
+        </Console>
+
+        <!-- Rolling File Appender -->
+        <RollingFile name="File" fileName="${basePath}" filePattern="${logFilePattern}">
+            <PatternLayout pattern="${logPattern}" />
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="25MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="7"/>
+        </RollingFile>
+    </Appenders>
+
+    <!-- Define loggers -->
+    <Loggers>
+        <!-- Root logger for the entire application -->
+        <Root level="info">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="File" />
+        </Root>
+
+        <!-- Package-specific logger with higher verbosity -->
+        <Logger name="com.example" level="debug" additivity="false">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="File" />
+        </Logger>
+
+        <!-- External library logger (e.g., Hibernate SQL) -->
+        <Logger name="org.hibernate.SQL" level="trace" additivity="false">
+            <AppenderRef ref="Console" />
+        </Logger>
+
+        <!-- Logger to suppress verbose logs from Apache libraries -->
+        <Logger name="org.apache" level="warn" />
+    </Loggers>
+</Configuration>
