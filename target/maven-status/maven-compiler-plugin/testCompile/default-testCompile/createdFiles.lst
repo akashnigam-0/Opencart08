@@ -1,3 +1,4 @@
+testCases\TC_04.class
 pageObjects\HomePage.class
 pageObjects\MyAccountPage.class
 pageObjects\AccountRegistrationPage.class

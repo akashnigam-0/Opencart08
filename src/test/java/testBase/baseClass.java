@@ -65,7 +65,7 @@ public Properties p;
 			default :System.out.print("Invalid browser");return; 
 			
 			}
-			driver=new RemoteWebDriver(new URL("http://192.168.14.94:4444/wd/hub"),cap);
+			driver=new RemoteWebDriver(new URL("http://192.168.67.94:4444/wd/hub"),cap);
 			
 		}
 		
