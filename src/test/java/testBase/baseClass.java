@@ -46,7 +46,7 @@ public Properties p;
 			
 			
 			if(os.equalsIgnoreCase("windows")) {
-				cap.setPlatform(Platform.WIN11);
+				cap.setPlatform(Platform.WIN10);
 			}
 			else if(os.equalsIgnoreCase("mac")) {
 				cap.setPlatform(Platform.MAC);
